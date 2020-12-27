@@ -1,9 +1,9 @@
-labels: /content/drive/MyDrive/SNUBH_AI_project/Echocardiogram_detection/labels.txt
+labels: /content/drive/MyDrive/SNUBH_AI_project/Echocardiogram_detection/labels
 names:
 - normal
 - hypertensive
 - HCMP
 - amyloidosis
 nc: 4
-train: /content/drive/MyDrive/SNUBH_AI_project/Echocardiogram_detection/train.txt
-val: /content/drive/MyDrive/SNUBH_AI_project/Echocardiogram_detection/val.txt
+train: /content/drive/MyDrive/SNUBH_AI_project/Echocardiogram_detection/train
+val: /content/drive/MyDrive/SNUBH_AI_project/Echocardiogram_detection/val
